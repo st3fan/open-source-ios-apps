@@ -1134,6 +1134,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Firefox
+  - https://github.com/mozilla/firefox-ios
+  - https://itunes.apple.com/ca/app/firefox-web-browser/id989804926?mt=8
 - Kiwix: An offline reader for Wikipedia (and many other websites). 🔶
   - https://github.com/kiwix/iOS
   - http://www.kiwix.org/wiki/Main_Page
